@@ -1,0 +1,3 @@
+Back Folder --> git ..
+change folder --> cd folder name
+Git folder create local compouter --> git init
